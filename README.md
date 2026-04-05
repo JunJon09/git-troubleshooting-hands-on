@@ -29,4 +29,5 @@ git stash pop
 git checkout -b issue1
 git checkout main
 git reset --hard HEAD~1
+git checkout issue1
 ```
