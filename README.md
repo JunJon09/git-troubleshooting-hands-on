@@ -41,3 +41,7 @@ git checkout issue1
 6. コミット: git commit でマージを完了させる
 
 ## 開発中に main が進んでしまった時の追従
+``` 
+git merge main
+```
+
