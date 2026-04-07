@@ -45,3 +45,10 @@ git checkout issue1
 git merge main
 ```
 
+
+## コマンドまとめ
+
+|アクション|コマンド|目的|
+|作業退避|git stash|ブランチの移動|
+|コンフリクト解消|git merge|複数人開発での衝突回避|
+|最新化|git pull|古いコードベースで開発し続けるのを防ぐ|
